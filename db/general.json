@@ -1,0 +1,21 @@
+{
+    "permission_admin": " **| Vous devez posséder la permission `ADMINISTRATOR` pour poursuivre !**",
+    "permission_owner": " **| Vous devez être le propriétaire du serveur pour poursuivre !**",
+    "blacklist": " **| Vous ne pouvez pas utiliser cette fonctionnalié du bot !**",
+    "class_access": " **| Pour utiliser cette fonctionnalié, vous devez être le modérateur de cette classe !**",
+    "delete_class": " **| Votre classe a bien été supprimée !**",
+    "save": " **| Les modifications ont bien été sauvegardées !**",
+    "auto_warn": " **| Vous ne pouvez pas signaler votre propre classe !**",
+    "warn_cooldown": " **| Vous devez patienter 10 minutes pour signaler de nouveau une classe !**",
+    "good_warn": " **| Votre signalement a bien été envoyé à l'équipe !**",
+    "absent_class": " **| Vous n'êtes le professeur d'aucune classe !**",
+    "user_add": " **| L'utilisateur a bien été ajouté à la classe !**",
+    "user_remove": " **| L'utilisateur a bien été renvoyé de la classe !**",
+    "force_close": " **| Votre classe a été fermée par un `Administrateur` !**",
+    "class_channel": " **| Vous devez faire cela dans une classe !**",
+    "two_class": " **| Cette utilisateur est déjà professeur d'une classe !**",
+    "class_transfer": " **| Votre rôle de professeur a bien été transféré !**",
+    "level_2": " **| Pour utiliser cette fonctionnalié, vous devez être niveau ` 2 ` !**",
+    "level_2_user": " **| Vous ne pouvez pas transférer votre classe à cet utilisateur car il n'a pas le niveau demandé pour utiliser cette fonctionnalié !**",
+    "level_5": " **| Pour utiliser cette fonctionnalié, vous devez être niveau ` 5 ` !**"
+}
